@@ -138,7 +138,7 @@ def analyze(id: int, periodicity: str, category: str, longest_streak, current_st
                 click.echo(f"Average completion rate across all habits: {average * 100:.2f}%")
             if most_struggled:
                 struggled = get_most_struggled_habit(habits)
-                click.echo(f"Most struggled habit: {struggled.name if struggled else "None"}")
+                click.echo(f"Most struggled habit: {struggled.name if struggled else 'None'}")
             if weekly_report:
                 report = generate_weekly_report(habits)
                 click.echo("\nWeekly Report:")
