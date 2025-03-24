@@ -193,7 +193,7 @@ To access the help documentation directly from the command-line interface use th
    python -m habit_tracker.cli reset --help
    ```
 <br/>
-
+ 
 ## Information
 Author: Mariana Del Pozo Patrón  
 Python version: 3.12.3  
