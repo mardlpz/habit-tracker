@@ -196,6 +196,7 @@ To access the help documentation directly from the command-line interface use th
 
 ## Information
 Author: Mariana Del Pozo Patrón  
+Python version: 3.12.3  
 Publish date: March 23, 2025  
 Object Oriented and Functional Programming with Python  
 International University of Applied Sciences  
